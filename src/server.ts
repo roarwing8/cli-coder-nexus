@@ -580,7 +580,7 @@ app.get("/api/export/:agentId", (req, res) => {
 app.get("/api/about", (_req, res) => {
   res.json({
     name: "APEX // Coder Hub",
-    version: "1.0.4",
+    version: "1.0.5"
     author: "Blackjack",
     platform: platform(),
     nodeVersion: process.version,
@@ -847,7 +847,7 @@ init().then(() => {
   server.listen(PORT, HOST, () => {
   console.log("");
   console.log("  ╔═══════════════════════════════════════════════╗");
-  console.log("  ║   APEX // Coder Hub by Blackjack  v1.0.4   ║");
+  console.log("  ║    APEX // Coder Hub by Blackjack  v1.0.5  ║");
   console.log(`  ║   Port: ${String(PORT).padEnd(38)}║`);
   console.log(`  ║   Host: ${HOST.padEnd(38)}║`);
   console.log(`  ║   Workspace: ${workspaceDir.slice(0, 32).padEnd(32)}║`);

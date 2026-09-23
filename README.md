@@ -1,9 +1,10 @@
 # APEX // Coder Hub
 
 **Multi-Agent Local Terminal Hub for CLI Coding Assistants**  
-*By Blackjack | v1.0.4*
+*By Blackjack | v1.0.5*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE
+[![Release](https://img.shields.io/github/v/release/roarwing8/cli-coder-nexus)](https://github.com/roarwing8/cli-coder-nexus/releases)
 [![Node.js](https://img.shields.io/badge/Node.js-22%2B-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![WebSocket](https://img.shields.io/badge/WebSocket-real--time-010101?logo=socketdotio&logoColor=white)](https://github.com/websockets/ws)
